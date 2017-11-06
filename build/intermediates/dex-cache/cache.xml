@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Destiny\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="H:\FrameProject\app\build\intermediates\pre-dexed\debug\converter-gson-2.3.0_75aad4d9f67482355af7e6067eb9084d0560d4ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Destiny\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.0.0\5151c737c01616c372c3d00ab145868ede10e826\rxjava-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5151c737c01616c372c3d00ab145868ede10e826">
+        <dex dex="H:\FrameProject\app\build\intermediates\pre-dexed\debug\rxjava-2.0.0_6b6281b8fa461eda9b15a3b3e1ddc2fe283b1b2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Destiny\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="H:\FrameProject\app\build\intermediates\pre-dexed\debug\okio-1.13.0_d50f766c8f595687718a75d1c8583ea8ce12d327.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Destiny\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.0\14b8c877d98005ba3941c9257cfe09f6ed0e0d74\reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="H:\FrameProject\app\build\intermediates\pre-dexed\debug\reactive-streams-1.0.0_508088bb3a783bb55cf099cb3d6369bc1c39b887.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Destiny\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.1\4d060ca3190df0eda4dc13415532a12e15ca5f11\okhttp-3.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="H:\FrameProject\app\build\intermediates\pre-dexed\debug\okhttp-3.8.1_e5f8986c15869e259dce81ddbcf708ec2966e7e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Destiny\.android\build-cache\a304c71db6e10e602f8c490150dcdd28d41ec438\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5f49fbc1bda3fa9073a82dd87de3e1ceea24268d">
+        <dex dex="H:\FrameProject\app\build\intermediates\pre-dexed\debug\classes_0d8204c7018dbd6a46e232e46898857766ed9162.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\FrameProject\baselibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4699ec3b96edbeabe8ed0395e0a6b2b6810f773e">
+        <dex dex="H:\FrameProject\app\build\intermediates\pre-dexed\debug\classes_e41c454dc5e5dcb680d9070ec111d364f4870b53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Destiny\.android\build-cache\ea7ffe692164a42092a3f00400d0896ba71eaa2b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="73a4e525f62c45a758fb53a512c8d9939a3e0946">
+        <dex dex="H:\FrameProject\app\build\intermediates\pre-dexed\debug\classes_917c49f2285ba8f970c2c534f8913b96fa6aaf7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Destiny\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="H:\FrameProject\app\build\intermediates\pre-dexed\debug\gson-2.7_f5bd513dc85aae982679eb7920d22093e76cc147.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Destiny\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="H:\FrameProject\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_8c6ebdaa08b38ce1f1af23b98f42818be3718740.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Destiny\.android\build-cache\a75b36732e568020858df5d63c1931e325106f74\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cc9c68aa8e850407de6231285bfd776aad227517">
+        <dex dex="H:\FrameProject\app\build\intermediates\pre-dexed\debug\classes_48351b1ac751d52f3db172a0beba8c175b59135e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Destiny\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="H:\FrameProject\app\build\intermediates\pre-dexed\debug\retrofit-2.3.0_604ab19d35a0b1052efdff062ad21567a3bdd6dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Destiny\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.8.1\feab46062803513d6a8307c74b0084265855de1a\logging-interceptor-3.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="feab46062803513d6a8307c74b0084265855de1a">
+        <dex dex="H:\FrameProject\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.8.1_9806936c05a7ebb41887a3c2ec38984458fd0867.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Destiny\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava2\2.3.0\f436637f9500ab5b8bc32afe556373180894b4a5\adapter-rxjava2-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f436637f9500ab5b8bc32afe556373180894b4a5">
+        <dex dex="H:\FrameProject\app\build\intermediates\pre-dexed\debug\adapter-rxjava2-2.3.0_b011e9415144da0115c3cb608f04623f14a22121.jar" />
+    </item>
+
+</items>
